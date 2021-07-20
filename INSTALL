@@ -1,0 +1,12 @@
+# PREREQUISITES
+sudo apt install nodejs npm
+sudo npm install -g spux
+
+# INSTALL
+spux package.json > profile/index.html
+
+# CONFIG
+
+# NOTES
+# create profile from various json including package.json
+# add view js file
